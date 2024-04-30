@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+.dicegame{
+    color: white;
+    background-color: rgb(9, 96, 9);
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.box1{
+    float: left;
+    margin-left: 150px;
+    margin-top: 60px;
+    font-size: 50px;
+    background-color: blue;
+    width:  150px;
+    height: 150px;
+    padding-top: 50px;
+    text-align: center;
+    color: aliceblue;
+    
+    
+
+}
+
+
+.box2{
+    float: left;
+    margin-left: 150px;
+    margin-top: 60px;
+    font-size: 50px;
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+    text-align: center;
+    color: aliceblue;
+    
+    
+}
+.boxs{
+height: 300px;
+}
+
+.btn1{
+    border: none;
+    border-radius: 1px;
+    clear: both;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.player1{
+    background-color: rgb(205, 88, 88);
+}
